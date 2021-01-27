@@ -1,0 +1,1169 @@
+2020-12-20 11:13:18pm User '' created Skill 56 
+2020-12-20 11:23:18pm User '' created Skill IT-Architektur 
+2020-12-20 11:43:20pm User '' created Skill Change Management 
+2020-12-20 11:51:27pm User '' created Skill Erbsen zählen 
+2020-12-26 03:53:24pm User '' created Skill Noch ein Skill 
+2020-12-26 04:48:49pm User '' created Skill abcd 
+2020-12-26 04:52:11pm User '' created Skill 12345 
+2020-12-26 05:05:38pm User '' created Skill 123456 
+2020-12-26 05:28:21pm User '' created Skill hallo 
+2020-12-26 05:36:23pm User '0' created Skill 123 
+2021-01-04 10:36:02pm User '0' created Skill Erbsen zählen 
+2021-01-04 10:42:22pm User '0' created Skill Erbsen zählen 
+2021-01-05 09:49:24pm User '0' created Skill Erbsen zählen 
+2021-01-05 10:17:06pm User '0' created Skill Erbsen zählen 
+2021-01-05 10:24:00pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:25:40pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:26:32pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:35:40pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:37:22pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:40:54pm User '0' created Skill Anforderungs-Management 
+2021-01-05 10:41:58pm User '0' created Skill 123 
+2021-01-05 10:54:49pm User '0' created Skill Projekt-Management 
+2021-01-05 11:12:04pm User '0' created Skill C   
+2021-01-07 10:56:02am User 'admin' created Skill IT-Architektur 
+2021-01-10 11:56:38am User '' edited Employee  
+2021-01-10 11:57:01am User '' edited Employee  
+2021-01-10 03:41:42pm User '' edited Employee  
+2021-01-10 03:49:48pm User '' created project  
+2021-01-10 03:49:50pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:49:51pm User '' created project  
+2021-01-10 03:53:47pm User '' edited Employee  
+2021-01-10 03:54:11pm User '' edited Employee  
+2021-01-10 03:54:29pm User '' edited Employee  
+2021-01-10 03:55:49pm User '' created project  
+2021-01-10 03:56:36pm User '' edited Employee  
+2021-01-12 08:25:22am User '' created project  
+2021-01-12 09:30:01am User '' created personal skill  
+2021-01-12 09:32:48am User '' created personal skill  
+2021-01-12 10:00:35am User 'admin' created personal skill  
+2021-01-12 10:03:55am User 'admin' created personal skill 4 
+2021-01-12 10:04:30am User 'admin' created personal skill 4 
+2021-01-12 10:06:45am User 'admin' created personal skill 4 
+2021-01-12 10:10:55am User 'admin' created personal skill 4 
+2021-01-12 10:11:53am User 'admin' created personal skill 4 
+2021-01-12 10:19:21am User 'admin' created personal skill 11 
+2021-01-12 10:21:40am User 'admin' created personal skill 4 
+2021-01-12 10:34:42am User 'admin' created personal skill 4 
+2021-01-12 10:36:47am User 'admin' created personal skill 4 
+2021-01-12 10:40:18am User 'admin' created personal skill  
+2021-01-12 10:40:19am User 'admin' created personal skill  
+2021-01-12 10:40:46am User 'admin' created personal skill  
+2021-01-12 10:43:15am User 'admin' created personal skill  
+2021-01-12 08:28:04pm User 'admin' created personal skill  
+2021-01-12 08:30:05pm User 'admin' created personal skill  
+2021-01-12 08:32:20pm User 'admin' created personal skill  
+2021-01-12 08:36:48pm User 'admin' created personal skill  
+2021-01-12 08:55:12pm User 'admin' created personal skill 3 
+2021-01-12 09:02:34pm User 'admin' created personal skill 4 
+2021-01-12 09:07:20pm User 'admin' created personal skill 4 
+2021-01-12 09:23:02pm User 'admin' created personal skill 12 
+2021-01-12 11:24:22pm User 'admin' created personal skill 12 
+2021-01-12 11:25:46pm User 'admin' created personal skill 18 
+2021-01-12 11:29:48pm User 'admin' created personal skill 31 
+2021-01-12 11:33:51pm User 'admin' created personal skill 18 
+2021-01-12 11:35:29pm User 'admin' created personal skill 4 
+2021-01-12 11:36:36pm User 'admin' created personal skill 18 
+2021-01-12 11:38:24pm User 'admin' created personal skill 18 
+2021-01-12 11:39:43pm User 'admin' created personal skill 18 
+2021-01-12 11:41:17pm User 'admin' created personal skill 18 
+2021-01-12 11:42:00pm User 'admin' created personal skill 31 
+2021-01-13 09:07:18am User '' created project  
+2021-01-13 09:08:09am User '' edited Employee  
+2021-01-13 09:15:09am User '0' created personal skill 3 
+2021-01-13 10:51:15am User '' created project 1 
+2021-01-13 10:55:04am User '' edited Training 2 
+2021-01-13 10:56:17am User '' edited Training 2 
+2021-01-13 10:58:53am User '' edited Training 2 
+2021-01-13 11:31:47pm User '0' created personal skill 4 
+2021-01-14 09:25:37am User 'admin' created Skill IT-Service Management 
+2021-01-14 10:59:34am User 'admin' created personal skill 4 
+2021-01-14 11:00:06am User 'admin' created personal skill 4 
+2021-01-14 11:29:39am User 'admin' created personal skill 4 
+2021-01-14 11:44:40am User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='SkillLevel',
+							pr_exp_com='',
+							pr_proj_id='2',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:46:04am User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='SkillLevel',
+							pr_exp_com='',
+							pr_proj_id='2',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:46:55am User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='SkillLevel',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:47:20am User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='SkillLevel',
+							pr_exp_com='',
+							pr_proj_id='2',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:48:57am User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:57:21am User 'admin' created personal skill 12 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '12' , 
+							e_type='p' , 
+							pr_exp_lvl='5',
+							pr_exp_com='konnte zählen',
+							pr_proj_id='11',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-14 04:19:13pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='1234',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 04:20:27pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 04:20:34pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 04:23:41pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='1234',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 04:24:28pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='6789',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:38:40pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:38:56pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='bla bla',
+							pr_proj_id='10',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:47:22pm User 'admin' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='bla bla bla',
+							pr_proj_id='10',
+							pr_start='2010-01-01',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-14 11:48:12pm User 'admin' created personal skill 3 
+41 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='Projektleitung hat Karsten Nicolai als externer Mitarbeiter übernommen. Rainer hat nur unterstützend gewirkt.',
+							pr_proj_id='13',
+							pr_start='2008-07-01',
+							pr_end='2009-06-30',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='41';2021-01-14 11:48:55pm User 'admin' created personal skill 3 
+41 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='Projektleitung hat Karsten Nicolai als externer Mitarbeiter übernommen. Rainer hat nur unterstützend gewirkt.',
+							pr_proj_id='13',
+							pr_start='2008-07-01',
+							pr_end='2009-06-30',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='41';2021-01-14 11:56:45pm User 'admin' created personal skill 3 
+4 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='0000-00-00',
+							th_exp_lvl='2',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='4';2021-01-14 11:58:01pm User '' created project 2 
+2021-01-14 11:58:40pm User 'admin' created personal skill 3 
+3 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='0000-00-00',
+							th_exp_lvl='2',
+							th_exp_com='Schulung 1997',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='3';2021-01-15 09:43:11am User '' created project  
+2021-01-15 10:06:40am User '' created project  
+2021-01-15 10:08:06am User '' created project  
+2021-01-15 01:40:44pm User '0' created personal skill 4 
+35 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='war einfach UML, kein BPMN',
+							pr_proj_id='10',
+							pr_start='',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='35';2021-01-15 05:45:58pm User '0' created personal skill 11 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '11' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='Test',
+							pr_proj_id='13',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-15 05:46:31pm User '0' created personal skill 11 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '11' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='Test',
+							pr_proj_id='2',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-15 05:47:03pm User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='0000-00-00',
+							th_exp_lvl='3',
+							th_exp_com='Test',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-15 05:47:35pm User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='0000-00-00',
+							th_exp_lvl='4',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-15 05:48:21pm User '0' created personal skill 32 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='2',
+							interest_lvl='0',
+							th_crt_id='0';2021-01-15 05:53:54pm User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='2',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='48';2021-01-15 05:54:53pm User '' created project  
+2021-01-15 05:56:33pm User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='48';2021-01-15 06:08:32pm User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0'WHERE id='48';2021-01-15 06:17:30pm User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='48';2021-01-15 08:00:35pm User '' created project  
+2021-01-15 08:00:56pm User '0' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='',
+							pr_proj_id='14',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-15 09:34:32pm User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='4',
+							th_exp_com='efgdsfgs',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-15 11:22:39pm User '' created project  
+2021-01-15 11:24:35pm User '0' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='* Projektleitung in Koordination mit der fachlich verantwortlichen Bundesärz-tekammer
+* Konzeption und Spezifikation der Fachanwendung Notfalldaten
+* Führung und Steuerung des kundeneigenen 5-köpfigen Spezifikationsteams
+* Koordination von medizinisch-fachlichen, technischen und rechtlichen Anfor-derungen
+* Durchführung von Workshops
+* Laufende Abstimmung mit anderen gematik-Projekten und deren fachlich verantwortlichen Gesellschaftern der gematik
+* Initiierung, Konzeption und Leitung der regionalen Erprobung des Notfalldaten-Managements inklusive Steuerung diverser Unter-Auftragnehmer bis zur Veröffentlichung des Abschlussberichts
+',
+							pr_proj_id='0',
+							pr_start='2012-01-01',
+							pr_end='2018-01-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-15 11:39:22pm User '0' created personal skill 3 
+49 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='Projektleitung in Koordination mit der fachlich verantwortlichen Bundesärz-tekammer
+Konzeption und Spezifikation der Fachanwendung Notfalldaten
+Führung und Steuerung des kundeneigenen 5-köpfigen Spezifikationsteams
+Koordination von medizinisch-fachlichen, technischen und rechtlichen Anfor-derungen
+Durchführung von Workshops
+Laufende Abstimmung mit anderen gematik-Projekten und deren fachlich verantwortlichen Gesellschaftern der gematik
+Initiierung, Konzeption und Leitung der regionalen Erprobung des Notfalldaten-Managements inklusive Steuerung diverser Unter-Auftragnehmer bis zur Veröffentlichung des Abschlussberichts',
+							pr_proj_id='14',
+							pr_start='',
+							pr_end='',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='49';2021-01-15 11:41:11pm User '0' created personal skill 3 
+51 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='Aufgaben:
+* Projektleitung in Koordination mit der fachlich verantwortlichen Bundesärztekammer
+* Konzeption und Spezifikation der Fachanwendung Notfalldaten
+* Führung und Steuerung des kundeneigenen 5-köpfigen Spezifikationsteams
+* Koordination von medizinisch-fachlichen, technischen und rechtlichen Anfor-derungen
+* Durchführung von Workshops
+* Laufende Abstimmung mit anderen gematik-Projekten und deren fachlich verantwortlichen Gesellschaftern der gematik
+* Initiierung, Konzeption und Leitung der regionalen Erprobung des Notfalldaten-Managements inklusive Steuerung diverser Unter-Auftragnehmer bis zur Veröffentlichung des Abschlussberichts',
+							pr_proj_id='15',
+							pr_start='2012-01-01',
+							pr_end='2018-01-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='51';2021-01-15 11:55:48pm User '' edited Employee  
+2021-01-15 11:55:57pm User '' edited Employee  
+2021-01-16 12:13:53am User '0' created personal skill 3 
+51 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='Aufgaben:
+',
+							pr_proj_id='15',
+							pr_start='2012-01-01',
+							pr_end='2018-01-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='51';2021-01-16 12:14:37am User '0' created personal skill 3 
+51 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='Aufgaben:
+* Projektleitung in Koordination mit der fachlich verantwortlichen Bundesärztekammer
+* Konzeption und Spezifikation der Fachanwendung Notfalldaten
+* Führung und Steuerung des kundeneigenen 5-köpfigen Spezifikationsteams
+* Koordination von medizinisch-fachlichen, technischen und rechtlichen Anfor-derungen
+* Durchführung von Workshops
+* Laufende Abstimmung mit anderen gematik-Projekten und deren fachlich verantwortlichen Gesellschaftern der gematik
+* Initiierung, Konzeption und Leitung der regionalen Erprobung des Notfalldaten-Managements inklusive Steuerung diverser Unter-Auftragnehmer bis zur Veröffentlichung des Abschlussberichts',
+							pr_proj_id='15',
+							pr_start='2012-01-01',
+							pr_end='2018-01-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='51';2021-01-16 12:26:32am User '' edited Employee  
+2021-01-16 12:30:55am User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='48';2021-01-16 12:33:28am User '0' created personal skill 32 
+48 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='48';2021-01-16 12:36:11am User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='2',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-16 12:37:41am User '0' created personal skill 4 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='2',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-16 12:40:23am User '0' created personal skill 4 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='2',
+							pr_exp_com='gute',
+							pr_proj_id='2',
+							pr_start='2018-11-01',
+							pr_end='2020-03-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-16 12:40:45am User '0' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='2',
+							th_exp_com='bei Perot',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-16 12:40:53am User '0' created personal skill 3 
+55 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='t' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='2',
+							th_exp_com='',
+							th_trg_id='3',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='55';2021-01-16 12:41:09am User '0' created personal skill 10 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '10' , 
+							e_type='c' , 
+							pr_exp_lvl='',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='undefined',
+							pr_end='undefined',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='3' ;2021-01-16 12:45:21am User '0' created personal skill 10 
+56 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '10' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='2',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='3' WHERE id='56';2021-01-16 10:30:46am User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='3',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='2' ;2021-01-16 10:31:42am User '0' created personal skill 33 
+57 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='3',
+							th_exp_com='bla bla',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='undefined' WHERE id='57';2021-01-16 11:10:10am User '0' created personal skill Skill 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = 'Skill' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='3',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='' ;2021-01-16 11:11:42am User '0' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='5',
+							th_exp_com='bbb',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='2' ;2021-01-16 11:14:07am User '0' created personal skill 33 
+59 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='5',
+							th_exp_com='bbb',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='2' WHERE id='59';2021-01-16 11:15:59am User '0' created personal skill 33 
+59 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='5',
+							th_exp_com='bbb',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='3' WHERE id='59';2021-01-16 11:16:04am User '0' created personal skill 33 
+59 - UPDATE pers_skill SET emp_id='6',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='5',
+							th_exp_com='bbb',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='2' WHERE id='59';2021-01-16 11:19:19am User '' edited Employee  
+2021-01-16 11:21:17am User 'admin' created personal skill 4 
+54 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='* Anforderungsaufnahme
+* Fachkonzepterstellung
+* Modellierung Systemprozesse mit Enterprise Architect
+* Betriebseinführungskonzept',
+							pr_proj_id='2',
+							pr_start='2018-11-01',
+							pr_end='2020-03-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='54';2021-01-16 11:21:22am User 'admin' created personal skill 4 
+54 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '4' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='* Anforderungsaufnahme
+* Fachkonzepterstellung
+* Modellierung Systemprozesse mit Enterprise Architect
+* Betriebseinführungskonzept',
+							pr_proj_id='2',
+							pr_start='2018-11-01',
+							pr_end='2020-03-31',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' WHERE id='54';2021-01-16 12:19:28pm User 'admin' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='c' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='3',
+							th_exp_com='ITILv2',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='2' ;2021-01-16 12:28:54pm User '' edited Cert  
+2021-01-16 12:30:30pm User '' edited Training 3 
+2021-01-16 12:30:41pm User '' edited Cert  
+2021-01-16 12:39:32pm User '' edited Cert  
+2021-01-16 02:17:27pm User 'admin' created User nmoels 
+2021-01-16 03:18:04pm User 'admin' edited User 8 
+2021-01-16 03:18:13pm User 'admin' edited User 8 
+2021-01-16 03:18:20pm User 'admin' edited User 8 
+2021-01-16 03:20:08pm User 'admin' edited User 8 
+2021-01-16 03:20:44pm User 'admin' edited User 8 
+2021-01-16 03:20:54pm User 'admin' edited User 8 
+2021-01-16 03:21:44pm User 'admin' edited User 8 
+2021-01-16 05:21:57pm User 'nmoels' edited employee 8 
+2021-01-16 05:23:51pm User 'nmoels' edited employee 8 
+2021-01-16 05:25:11pm User 'nmoels' edited employee 8 
+2021-01-16 05:28:47pm User 'nmoels' edited employee 8 
+2021-01-16 05:30:50pm User 'nmoels' edited employee 8 
+2021-01-16 05:33:22pm User 'nmoels' edited employee 8 
+2021-01-16 05:34:10pm User 'nmoels' edited employee 8 
+2021-01-16 05:37:55pm User 'nmoels' edited employee 8 
+2021-01-16 08:16:57pm User 'nmoels' edited employee 8 
+2021-01-17 11:55:32am User 'admin' edited User 7 
+2021-01-17 12:02:33pm User 'admin' edited User 7 
+2021-01-17 12:03:35pm User 'admin' edited User 8 
+2021-01-17 01:04:28pm User 'admin' created User test 
+2021-01-17 01:06:19pm User 'admin' created User test2 
+2021-01-17 01:07:20pm User 'admin' created User test 
+2021-01-17 04:53:26pm User '' edited Employee  
+2021-01-17 04:55:05pm User '' edited project 13?emp_id=0 
+2021-01-17 04:56:00pm User '5' edited project 13?emp_id=0 
+2021-01-17 05:00:19pm User '5' edited project 14?emp_id=0 
+2021-01-17 05:01:00pm User '5' edited project 14?emp_id=0 
+2021-01-17 05:04:57pm User 'admin' edited employee 5 
+2021-01-17 05:05:03pm User 'admin' edited employee 5 
+2021-01-17 05:07:20pm User 'admin' edited employee 5 
+2021-01-17 05:07:35pm User 'admin' edited employee 5 
+2021-01-17 05:11:56pm User 'admin' edited employee 1 
+2021-01-17 05:13:33pm User 'admin' edited employee 1 
+2021-01-17 05:14:39pm User 'admin' edited employee 1 
+2021-01-17 05:15:23pm User 'admin' edited employee 1 
+2021-01-17 05:16:00pm User 'admin' edited employee 1 
+2021-01-17 05:59:35pm User '5' edited project 10?emp_id=0 
+2021-01-17 06:50:57pm User '5' edited project 1 
+2021-01-17 06:52:09pm User '5' edited project 1 
+2021-01-17 07:21:23pm User 'admin' created Skill 123 
+2021-01-17 07:22:07pm User '0' edited employee 7 
+2021-01-17 07:27:42pm User '0' edited employee 7 
+2021-01-17 07:29:12pm User '0' edited employee 7 
+2021-01-17 07:30:07pm User '0' edited employee 7 
+2021-01-17 07:31:10pm User '5' edited project 11?emp_id=0 
+2021-01-17 07:34:20pm User '5' edited project 11?emp_id=0 
+2021-01-17 07:36:40pm User '0' edited employee 1 
+2021-01-17 07:37:03pm User '0' edited employee 1 
+2021-01-17 07:37:18pm User '0' edited employee 1 
+2021-01-17 07:37:58pm User '0' edited employee 1 
+2021-01-17 07:47:22pm User '0' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='0000-00-00',
+							pr_end='0000-00-00',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 12:26:42am User '0' created personal skill 3 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='3',
+							th_crt_id='0' WHERE id='61';2021-01-18 12:28:01am User '0' created personal skill 3 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='1',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:08:46am User '0' created personal skill 3 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='3',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:11:16am User '0' created personal skill 11 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '11' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='2',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:19:26am User '0' created personal skill 11 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '11' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='1',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:19:32am User '0' created personal skill 11 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '11' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='3',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:19:48am User '0' created personal skill 3 
+61 - UPDATE pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='1',
+							th_crt_id='0' WHERE id='61';2021-01-18 09:20:03am User '0' created personal skill 32 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='4',
+							th_crt_id='0' ;2021-01-18 09:57:45am User 'nmoels' created Skill Enterprise Architect 
+2021-01-18 10:16:46am User '5' edited project 11?emp_id=0 
+2021-01-18 08:15:55pm User '' created project  
+2021-01-18 08:59:57pm User 'admin' created personal skill Skill 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = 'Skill' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='',
+							pr_proj_id='14',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:25:16pm User 'admin' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='1',
+							pr_exp_com='hallo',
+							pr_proj_id='14',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:25:39pm User 'admin' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='1',
+							pr_exp_com='wkdhkdhfjks',
+							pr_proj_id='14',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:26:04pm User 'admin' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='',
+							pr_proj_id='14',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:26:45pm User 'admin' created personal skill 32 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '32' , 
+							e_type='p' , 
+							pr_exp_lvl='1',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:30:59pm User 'admin' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='',
+							pr_proj_id='14',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:31:12pm User 'admin' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='sdfswdfs',
+							pr_proj_id='10',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:31:50pm User 'admin' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='sdfswdfs',
+							pr_proj_id='10',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:32:08pm User 'admin' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='wedfdsfdsf',
+							pr_proj_id='1',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:53:14pm User 'admin' created personal skill 33 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '33' , 
+							e_type='p' , 
+							pr_exp_lvl='4',
+							pr_exp_com='',
+							pr_proj_id='1',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-18 09:54:46pm User 'admin' created personal skill 3 
+0 - INSERT pers_skill SET emp_id='7',
+							skill_id = '3' , 
+							e_type='i' , 
+							pr_exp_lvl='0',
+							pr_exp_com='',
+							pr_proj_id='0',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='1',
+							th_crt_id='0' ;2021-01-20 12:33:19am User '' deleted User '6' 
+2021-01-20 12:33:40am User 'admin' created User test 
+2021-01-20 12:34:02am User 'admin' created personal skill 11 
+0 - INSERT pers_skill SET emp_id='12',
+							skill_id = '11' , 
+							e_type='p' , 
+							pr_exp_lvl='3',
+							pr_exp_com='',
+							pr_proj_id='10',
+							pr_start='1998-02-01',
+							pr_end='1998-02-01',
+							th_exp_lvl='0',
+							th_exp_com='',
+							th_trg_id='0',
+							interest_lvl='0',
+							th_crt_id='0' ;2021-01-20 12:34:22am User '' deleted User '12' 
+2021-01-20 12:34:25am User '' deleted User '11' 

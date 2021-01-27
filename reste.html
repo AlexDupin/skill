@@ -1,0 +1,22 @@
+				<div class = "col-3">
+					<p> <b> Filter by type: </b> </p>
+					<form action="Search/SkillProjSearch.php" Method=Post>
+						<select name="Type" class="custom-select"name="ACategory" id = 'FilterByType' onchange = "filterTable()" placeholder = "Type">
+							<option selected></option>
+							<?php
+								// Type Dropdown
+								include('inc.php');
+								$con = mysqli_connect($host,$user,$passwd,$datenbank) or die("<h5>Error:Die Datenbank ist momentan nicht erreichbar</h5>");
+								$sql = mysqli_query($con,"SELECT * FROM Type ORDER BY AssetType");
+								$rows = mysqli_num_rows($sql);
+								for ($i = 0; $i < $rows; $i++){
+									$record=mysqli_fetch_row($sql);
+									for ($j = 0; $j < mysqli_num_fields($sql); $j++){
+										echo "<option value='$record[$j]' id = '$record[$j]' > $record[$j] </option>";
+										}		
+									} 
+							?>
+						</select>
+						<br><br>
+					</form>
+				</div>

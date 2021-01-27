@@ -1,0 +1,33 @@
+===============================
+NOVEDAS SKILL MANAGEMENT SYSTEM
+===============================
+
+
+==> RELEASE NOTES
+
+
+--------------------
+VERSION: 1.0
+DATE: 20-01-2021
+--------------------
+
+- Liste der beteiligten Mitarbeiter an Projektbeschreibung angehängt. (displayProject)
+- Löschen des Benutzers hinzugefügt. (DeleteUser)
+- Branche zur Projektliste hinzugefügt (functions)
+
+--------------------
+VERSION: 0.9
+DATE: 19-01-2021
+--------------------
+
+- Fehler behoben in CreateProject.ps, der zu einem nicht funtkionierenden Button führte.
+
+--------------------
+VERSION 0.8
+DATE: 18-01-2021
+--------------------
+
+- Erste für Produktion freigegebene Version.
+- sämtliche "retired"-Funtkionen funktionieren noch nicht.
+- Das Löschen von Mitarbeitern, Projekten, Schulungen, Zertifikaten funktioniert noch nicht.
+- Es kann (und soll) auch jeder Projekte, Schulungen und Zertifikate anlegen können.

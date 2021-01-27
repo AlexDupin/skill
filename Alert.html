@@ -1,0 +1,48 @@
+<body>
+	<div class="modal-alert" id="alert">
+		<div class="modal-content-alert">
+			<div class="modal-container-alert">
+				<div id="alert-text"><strong>SUCCESS! </strong></div>
+				<hr>
+				<div id="close" class="close-alert">Close</div>
+			</div> 
+		</div>
+	</div>
+	<script>
+	var alert = {
+		show: document.getElementById("alert"),
+		text: document.getElementById("alert-text"),
+		close: document.getElementById("close"),
+		relocate: false,
+		refresh: true,
+	}
+
+
+	alert.close.onclick = () => {
+		alert.show.style.display = "none";
+		if (alert.relocate == false){
+			if (alert.refresh){
+					location.reload();
+				}
+			}
+			else {
+				window.location.replace(alert.relocate);
+			}
+	}
+
+
+	window.onclick = function (event) {
+		if (event.target == alert.show){
+			alert.show.style.display = "none";
+			if (alert.relocate == false){
+				if (alert.refresh){
+					location.reload();
+				}
+			}
+			else {
+				window.location.replace(alert.relocate);
+			}
+		}
+	}
+	</script>
+</body>
