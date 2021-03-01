@@ -1,15 +1,5 @@
-
-<b> Versionshinweise: Aktuelle Version 1.0: </b>
-
-* Erste zur Produktion freigegebene Version.
-* sämtliche "retired"-Funtkionen funktionieren noch nicht.
-* Das Löschen von Projekten, Schulungen, Zertifikaten funktioniert noch nicht.
-* Es kann (und soll) auch jeder Projekte, Schulungen und Zertifikate anlegen können.
-* Leichte Änderungen bei der Anzeige von Projekten.
-
-ACHTUNG:
+<b> Aktuelle Hinweise </b>
 Bei Projekten, die man zwar selbst durchgeführt hat, die aber nicht bei NOVEDAS waren (sozusagen aus der eigenen Vergangenheit), dem Projektnamen bitte die Zeichenkentte <b>$FREMD$</b> voranstellen (Beispiel: Projektname="$FREMD$Roll Out SAP Clients"). Danke.
-
 <hr>
 <b>Hinweise zur Benutzung:</b> 
 
@@ -25,4 +15,4 @@ Dann wählt man in der folgenden Maske den Skill aus (z.B. Projekt-Management), 
 Bei Schulungen und Zertifikaten kann man Erfahrungen und Schwerpunkte der Schulung angeben.
 Dann wählt man rechts das Projekt, die Schulung oder das Zertifikat aus und ist fertig.
 
-Zusätzlich kann man auch festhalten, ob man für ein Thema Interesse hat. Man kann z.B. ein Thema nicht gut beherrschen, aber trotzdem großes Interesse daran haben.man
+Zusätzlich kann man auch festhalten, ob man für ein Thema Interesse hat. Man kann z.B. ein Thema nicht gut beherrschen, aber trotzdem großes Interesse daran haben.

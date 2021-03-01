@@ -154,7 +154,7 @@
 					$NumEmp = mysqli_num_rows($sql);
 					if ($NumEmp>0) {
 						echo "<br><h5>Liste der NOVEDAS-Mitarbeiter mit diesem Zertifikat: $NumEmp</h5><br>";
-						EmployeeList($sql, 'EmployeeLink.php?');
+						EmployeeList($sql, 'EmployeeLink.php?', '0');
 						echo "<br>";
 						}
 					else {

@@ -1,6 +1,12 @@
 <!doctype html>
 <html>
 
+<?php
+// Datum: 24.2.2021
+// Änderung: 
+// 	Else-Teil in Skript kommentiert - Wahrscheinlich Event beim Öffnen der Seite produziert Konsolennachricht
+// 	Elemente von CreateEmployee entfernt - sind jetzt in Archiv
+?>
 <head>
 	<meta charset="utf-8">
 
@@ -365,8 +371,8 @@
 		window.onclick = function(event) {
 			if (event.target == modal_edit)
 				modal_edit.style.display = "none";
-				else
-					console.log("fehler in modal")
+// 				else
+// 					console.log("fehler in modal")
 			}
 	</script>
 </body>

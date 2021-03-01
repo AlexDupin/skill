@@ -111,6 +111,7 @@
 				<div class = col>
 					<hr>
 					<?php
+						$notavailable=TRUE;
 						$Csql = mysqli_query($con,"
 							select s.s_id, e.id as e_id, p.id as p_id, e.sname, e.gname, p.e_type, p.pr_exp_lvl, proj.pr_id, proj.p_name, proj.cust
 							from skill as s, emp as e, pers_skill as p, proj 

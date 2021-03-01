@@ -115,7 +115,7 @@
 					</div>
 					<div class='form-group'>
 						<label form='skill_desc'> Beschreibung der Schulung </label>
-						<textarea class='form-control' id='id_trg_desc' rows='6'>$Description</textarea>
+						<textarea class='form-control' id='id_trg_desc' rows='6'></textarea>
 					</div>
 					<div class='form-check'>
 					</div>

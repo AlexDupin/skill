@@ -89,9 +89,11 @@
 				<?php
 
 					include('inc.php');
+					include('functions.php');
 
 					$TrgID = $_GET['id'];
 					$EmpID = $_GET['emp_id'];
+					setcookie('TrainingID',$TrgID);
 					$Asql = mysqli_query($con, "SELECT * FROM trg WHERE trg_id='$TrgID'");
 					$row = mysqli_fetch_assoc($Asql);
 					$TrgName = $row['trg_name'];
@@ -99,7 +101,8 @@
 
 					//<input type=checkbox class=form-check-input id='filterRetired' onchange="filterRetired()" style="margin-left: 15%"> <span style="margin-left: 25%;">Show retired </span></input>
 					if ($EmpID>0) 
-						echo "<a href='EmployeeLink.php?emp_id=".$EmpID."' class='btn btn-info btn-sm' role='button'>Zum Mitarbeiter</a>";				?>
+						echo "<a href='EmployeeLink.php?emp_id=".$EmpID."' class='btn btn-info btn-sm' role='button'>Zum Mitarbeiter</a>";
+				?>
 			</div>
 			<br>
 			<br>
@@ -108,7 +111,7 @@
 		<div class=row>
 			<div class=col>
 				<?php
-					//		Project Description
+					//		Training Description
 					echo " 
 							<h4> Schulung: $TrgName </h4>
 							<hr>
@@ -134,8 +137,32 @@
 						};
 					};
 				?>
+			</div>
+		</div>
+		<div class=row>
+			<div class=col>
+				<hr>
+				<?php
+					$sql = mysqli_query($con, "SELECT e.id as id, e.sname as sname, e.gname as gname, e.company as company, p.pr_proj_id as pr_id, p.emp_id as emp_id, p.skill_id FROM emp as e, pers_skill as p where p.emp_id=e.id AND p.th_trg_id='$TrgID' ORDER BY sname;");
+					$NumEmp = mysqli_num_rows($sql);
+					if ($NumEmp>0) {
+						echo "<h5>Anzahl der NOVEDAS-Mitarbeiter mit dieser Schulung: $NumEmp</h5>";
+						EmployeeList($sql, "EmployeeLink.php?", "0");
+						echo "<br>";
+						}
+					else {
+						echo "<h5>Kein Mitarbeiter hat diese Schulung durchgeführt.</h5>";
+						}
+				?>
+			</div>
 		</div>
 	</div>
+
+			</div>
+		</div
+	
+	</div>
+	
 	<div class = modal id = "editTraining">
 		<form class = "modal-content animate">
 			<span onclick="document.getElementById('editTraining').style.display='none'" class="close" title="Close Modal" style="cursor: pointer">×</span>

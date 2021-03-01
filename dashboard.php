@@ -89,7 +89,6 @@ if ($_COOKIE['uname']==NULL){
 			?>
 		</div>
 	</div>
-</div>";
-
+</div>
 </body>
 </html>

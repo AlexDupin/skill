@@ -76,11 +76,11 @@
 				<br>
 				<div class="form-group">
 					<label for="sdate">Startdatum im Projekt:</label>
-					<input type="date" class="form-control" id="id_pr_sdate">
+					<input type="text" placeholder="TT.MM.JJJJ" class="form-control" id="id_pr_sdate">
 				</div>
 				<div class="form-group">
 					<label for="edate">Enddatum im Projekt:</label>
-					<input type="date" class="form-control" id="id_pr_edate">
+					<input type="text" placeholder="TT.MM.JJJJ" class="form-control" id="id_pr_edate">
 				</div>
 			</div>
 			<div class=col>
@@ -91,7 +91,7 @@
  -->
 				<?php
 					error_reporting(0);
-					$sql = mysqli_query($con, "SELECT * FROM proj ORDER BY p_name");
+					$sql = mysqli_query($con, "SELECT * FROM proj ORDER BY UPPER(cust), UPPER(p_name);");
 					ProjectRadioList($sql, 'AssignProjectRadio.php?');
 					error_reporting(1);
 				?>

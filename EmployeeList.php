@@ -1,6 +1,11 @@
 <!doctype html>
 <html>
-
+<?php
+// Datum: 24.2.2021
+// Änderung: 
+// 	Elemente von CreateEmployee entfernt - sind jetzt in Archiv
+//  Button "Eigenen Eintrag" hinzugefügt
+?>
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -74,45 +79,11 @@
 </head>
 
 <body>
-	<?php include('Alert.html'); ?>
-	<div class=modal id="createEmployee">
-	<form class="modal-content animate">
-		<span onclick="document.getElementById('createEmployee').style.display='none'" class="close" title="Close Modal">×</span>
-		<div class="modalContainer">
-		<h2> Create Employee </h2>
-		<br>
-		<input type="text" class="form-control" placeholder="Vorname" id="firstname">
-		<br>
-		<input type="text" class="form-control" placeholder="Nachname" id="lastname">
-		<br>
-		<input type="text" class="form-control" placeholder="User Name" id="username">
-		<br>
-		<select id="organization" class="custom-select">
-			<option value=''>Firma</option>
-			<option>NOC</option>
-			<option>SoSy</option>
-		</select>
-		<br>
-		<br>
-		<select id="accesslevel" class="custom-select">
-			<option value=''>Zugriffsrechte</option>
-			<option>Administrator</option>
-			<option>Benutzer</option>
-		</select>
-		<br>
-		<br>
-		<input type="text" class="form-control" placeholder="Kennwort" id="password">
-		<br>
-		<button type='button' id="btn-submit" class="btn btn-primary"> Mitarbeiter anlegen </button>
-		</div>
-	</form>
-	</div>
+	<?php 
+		include('Alert.html');
+		include('jumbotron.html');
+		include('Navbar/Employees.html'); ?>
 
-
-	<?php include('jumbotron.html'); ?>
-
-
-	<?php include('Navbar/Employees.html'); ?>
 	<div class=container>
 	<br>
 	<br>
@@ -123,9 +94,9 @@
 		<br>
 		</div>
 		<div class='col-3'>
-<!-- 
-		<button class='btn btn-secondary' onclick="document.getElementById('createEmployee').style.display='block'"> Mitarbeiter anlegen </button>
- -->
+			<?php
+				echo "<a href='EmployeeLink.php?emp_id=".$_COOKIE['userid']."' class='btn btn-info' role='button'>Zeige eigenen Eintrag</a>";
+			?>
 		</div>
 	</div>
 
@@ -146,22 +117,11 @@
 	include("inc.php");
 	include("functions.php");
 	$sql = mysqli_query($con, "SELECT id, sname , gname , uname, company, password, CASE retired WHEN 1 THEN 'ausgeschieden' ELSE 'aktiv' END AS ret FROM emp ORDER BY sname");
-	EmployeeList($sql, 'EmployeeLink.php?');
+	EmployeeList($sql, 'EmployeeLink.php?', "0");
 	?>
 	</div>
 	<script src='FilterEmployeeList.js'></script>
 	<script src='sortTable.js'></script>
-	<script src="CreateEmployee.js"></script>
-	<script>
-	var modal = document.getElementById('createEmployee');
-
-
-	window.onclick = function(event) {
-		if (event.target == modal) {
-		modal.style.display = "none";
-		}
-	}
-	</script>
 </body>
 
 </html>

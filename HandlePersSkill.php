@@ -1,5 +1,7 @@
 <html>
-
+<?php
+// Version 1.0.2 / 24.2.2021 Sort by customer and project for display 
+?>
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -157,11 +159,11 @@
 								<br>
 								<div class='form-group'>
 									<label for='sdate'>Startdatum im Projekt:</label>
-									<input type='date' class='form-control' id='id_pr_sdate' value='" . $pr_start . "'>
+									<input type='text' class='form-control' id='id_pr_sdate' value='" . $pr_start . "'>
 								</div>
 								<div class='form-group'>
 									<label for='edate'>Enddatum im Projekt:</label>
-									<input type='date' class='form-control' id='id_pr_edate' value='". $pr_end ."'>
+									<input type='text' class='form-control' id='id_pr_edate' value='". $pr_end ."'>
 								</div>";
 							break;
 					case 't':
@@ -181,7 +183,7 @@
 					switch ($e_type) {
  						case 'p':
 							echo "Relevantes Projekt wählen:<hr>";
-							$sql = mysqli_query($con, "SELECT * FROM proj ORDER BY p_name");
+							$sql = mysqli_query($con, "SELECT * FROM proj ORDER BY UPPER(cust), UPPER(p_name);");
 							ProjectRadioList($sql, $pr_proj_id);
 							break;
 						case 't':

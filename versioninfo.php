@@ -1,7 +1,8 @@
-<b> Versionshinweise: Aktuelle Version 1.0.1: </b>
-
-* Erste zur Produktion freigegebene Version.
-* sämtliche "retired"-Funtkionen funktionieren noch nicht.
-* Das Löschen von Projekten, Schulungen, Zertifikaten funktioniert noch nicht.
-* Es kann (und soll) auch jeder Projekte, Schulungen und Zertifikate anlegen können.
-* Leichte Änderungen bei der Anzeige von Projekten.
+<b> Versionshinweise: Aktuelle Version 1.1 (24.2.2021): </b>
+<ul>
+<li> Mitarbeiterliste: Button zur einfachen Navigation zum eigenen Profil hinzugefügt.
+<li> Personal Skills: Projektliste beim Anlegen und Ändern im Layout verändert und nach Kunden sortiert
+<li> Leichte Änderungen bei der Anzeige von Projekten.
+<li> sämtliche "retired"-Funtkionen funktionieren noch nicht.
+<li> Das Löschen von Projekten, Schulungen, Zertifikaten funktioniert noch nicht.
+</ul>

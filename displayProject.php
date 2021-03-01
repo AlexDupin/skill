@@ -81,12 +81,10 @@
 	<div class="container">
 		<div class=row>
 			<div class=col-2></div>
-			<div class=col-2>
+			<div class=col>
 				<button onclick="document.getElementById('editProject').style.display='block'" class='btn btn-primary btn-sm'>Projekt ändern</button>
 			</div>
-			<div class=col>
-			<br><br>
-			</div>
+			<div class=col-2></div>
 			<div class=col>
 				<?php
 
@@ -160,23 +158,22 @@
 			<div class=col>
 				<hr>
 				<?php
-					$sql = mysqli_query($con, "SELECT e.id as id, e.sname as sname, e.gname as gname, e.company as company, p.pr_proj_id as pr_id, p.emp_id as emp_id FROM emp as e, pers_skill as p where emp_id=e.id AND p.pr_proj_id='$PrID' ORDER BY e.sname;");
+					$sql = mysqli_query($con, "SELECT e.id as id, e.sname as sname, e.gname as gname, e.company as company, p.pr_proj_id as pr_id, p.emp_id as emp_id, p.skill_id, s.name as skillname FROM emp as e, pers_skill as p, skill as s where emp_id=e.id AND p.pr_proj_id='$PrID' AND p.skill_id=s.s_id ORDER BY e.sname;");
 					$NumEmp = mysqli_num_rows($sql);
 					if ($NumEmp>0) {
 						echo "<h5>Liste der mitwirkenden NOVEDAS-Mitarbeiter: $NumEmp</h5><br>";
-						EmployeeList($sql, 'EmployeeLink.php?');
+						// Zeige die Skills an statt der Firma
+						EmployeeList($sql, 'EmployeeLink.php?', '1');
 						}
 					else {
 						echo "<b>Keine Mitarbeiter haben an diesem Projekt mitgewirkt.</b><br>";
-						echo "Abfrage-Fehler:".mysqli_error($con).".....<br>";
+						// echo "Abfrage-Fehler:".mysqli_error($con).".....<br>";
 						}
 
 				?>
 			</div>
 		</div>
 	</div>
-
-
 	<div class = modal id = "editProject">
 		<form class = "modal-content animate">
 			<span onclick="document.getElementById('editProject').style.display='none'" class="close" title="Close Modal" style="cursor: pointer">×</span>
@@ -221,9 +218,7 @@
 						<label form='skill_desc'>Ausführliche Beschreibung des Projektes</label>
 						<textarea class='form-control' id='id_proj_desc' rows='6'>$Description</textarea>
 					</div>
-					<div class='form-check'>
-					</div>
-					";
+					<div class='form-check'></div>";
 				?>
 				<button type=button role=button class='btn btn-primary' id="btn-submit">Speichern</button>
 			</div>

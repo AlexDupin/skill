@@ -1,35 +1,55 @@
 <?php
 
-//		Employee List
+// VersionInfo
+// v1.1.1	Made EmployeeList configurable to display either skills or company
+// v1.1		ProjectRadioList now with table
+// v1.0.2 	fixed bugs in EmployeeList, UserList (missing </table>)
 
-function EmployeeList($sql, $Link)
+//	Log File 
+$file = 'log.txt';
+
+
+function EmployeeList($sql, $Link, $skill)
 {
-
 	echo "
 		<table class='table table-hover' id = 'EmployeeList'>
 			<thead>
 				<tr>
 					<th>Vorname</th>
-					<th>Nachname</th>
+					<th>Nachname</th>";
+	if ($skill=="1") {
+		echo "
+					<th>Skill im Projekt</th>";
+		}
+	else {
+		echo"
 					<th>Firma</th>
-					<th>Status</th>
+					<th>Status</th>";
+		}
+	echo "					
 				</tr>
 			</thead>
 			<tbody>";
 	while ($row = mysqli_fetch_array($sql)) {
 		echo "
-			<tr data-href = '$Link" . "emp_id=" . $row['id']."'>
+		<tr data-href = '$Link" . "emp_id=" . $row['id']."'>
 			<td>" . $row['gname'] . "&nbsp;</td>
-			<td>" . $row['sname'] . "&nbsp;</td>
+			<td>" . $row['sname'] . "&nbsp;</td>";
+		if ($skill=="1") {
+			echo "
+			<td>" . $row['skillname'] . "&nbsp;</td>
+			</tr>";
+			}
+		else {
+			echo "
 			<td>" . $row['company'] . "&nbsp;</td>
 			<td>" . $row['ret'] . "&nbsp;</td>
-		</tr>";
+			</tr>";
+			}
 	}
-	echo "</tbody>";
+	echo "</tbody> </table>";
 }
 
-
-// Select Employe List
 
 function SelectEmployee($sql, $Link)
 {
@@ -55,7 +75,6 @@ function SelectEmployee($sql, $Link)
 	echo "</tbody>";
 }
 
-//		Current owner
 
 function SkillEmpList($sql, $e_type)
 {
@@ -132,8 +151,6 @@ function SkillEmpList($sql, $e_type)
 }
 
 
-// 		Past owners
-
 function SkillIntList($sql)
 {
 
@@ -158,14 +175,6 @@ function SkillIntList($sql)
 	echo "</tbody></table>";
 }
 
-//	Log File 
-
-
-$file = 'log.txt';
-
-
-// 	User List
-
 
 function UserList($sql, $Link)
 {
@@ -178,7 +187,8 @@ function UserList($sql, $Link)
 					<th scope='col'> Nachname </th>
 					<th scope='col'> Vorname </th>
 				</tr>
-			</thead>";
+			</thead>
+			<tbody>";
 
 	while ($row = mysqli_fetch_array($sql)) {
 		echo "
@@ -189,10 +199,9 @@ function UserList($sql, $Link)
 					<td>" . $row['gname'] . "</td>	
 				</tr>";
 	}
-	echo "</table>";
+	echo "</tbody> </table>";
 }
 
-// 	Skill List
 
 function SkillList($sql, $Link)
 {
@@ -211,6 +220,31 @@ function SkillList($sql, $Link)
 				<tr data-href = '$Link" . "skill_id=" . $row['s_id']."'>
 					<td>" . $row['name'] . "</td>
 					<td>" . $row['s_desc'] . "</td>
+				</tr>";
+		}
+	echo "</tbody>";
+	echo "</table>";
+}
+
+function SkillLongList($sql, $Link)
+{
+	echo "
+		<table class='table table-hover table-sm' id='SkillList'>
+			<thead>
+				<tr>
+					<th scope='col' id='skill_name'> Bezeichnung </th>
+					<th scope='col' id='skill_sdesc'> Kurzbeschreibung </th>
+					<th scope='col' id='skill_ldesc'> Langbeschreibung </th>
+				</tr>
+				<br><br>
+			</thead>
+			<tbody>";
+	while ($row = mysqli_fetch_array($sql)) {
+		echo "
+				<tr data-href = '$Link" . "skill_id=" . $row['s_id']."'>
+					<td>" . $row['name'] . "</td>
+					<td>" . $row['s_desc'] . "</td>
+					<td><small>" . $row['l_desc'] . "</small></td>
 				</tr>";
 		}
 	echo "</tbody>";
@@ -246,6 +280,34 @@ function ProjectList($sql, $Link)
 	echo "</table>";
 }
 
+function ProjectLongList($sql, $Link)
+{
+	echo "
+		<table class='table table-hover table-sm' id='ProjectList'>
+			<thead>
+				<tr>
+					<th scope='col' id='proj_name'> Bezeichnung </th>
+					<th scope='col' id='proj_cust'> Kunde </th>
+					<th scope='col' id='proj_industry'> Branche </th>
+					<th scope='col' id='descript'> Beschreibung </th>
+				</tr>
+				<br><br>
+			</thead>
+			<tbody>";
+	while ($row = mysqli_fetch_array($sql)) {
+		echo "
+				<tr data-href = '$Link" . "id=" . $row['pr_id']."&emp_id=0'>
+					<td>" . $row['p_name'] . "</td>
+					<td>" . $row['cust'] . "</td>
+					<td>" . $row['industry'] . "</td>
+					<td><small>" . $row['descript'] . "</small></td>
+				</tr>";
+		}
+	echo "</tbody>";
+	echo "</table>";
+}
+
+
 function TrainingList($sql, $Link)
 {
 	echo "
@@ -268,6 +330,7 @@ function TrainingList($sql, $Link)
 	echo "</tbody>";
 	echo "</table>";
 }
+
 
 function CertList($sql, $Link)
 {
@@ -297,20 +360,49 @@ function CertList($sql, $Link)
 
 function ProjectRadioList($sql, $pr_proj_id)
 {
-	echo "<div class='form-check' id='id_pr_radio' data-toggle='buttons'>";
+	echo "
+		<table class='table table-striped table-sm'>
+		<thead class='thead-dark'>
+			<tr>
+				<th> </th>
+				<th scope='col' style='text-align:left'>Kunde</th>
+				<th scope='col' style='text-align:left'>Projekt</th>
+			</tr>
+		</thead>
+		<tbody>
+			<form>";
 	while ($row = mysqli_fetch_array($sql)) {
 		if ((int)$pr_proj_id == (int)$row['pr_id']) {
-			echo "	<label class='form-check-label' active>
-					<input class='form-check-input' type='radio' name='projradio' checked='checked' value=".$row['pr_id'].">".$row['p_name']."</label><hr>";
+			echo "		
+				<tr>
+					<td>
+						<div class='radio'>
+							<label><input type='radio' id='id_pr_radio' name='projradio' checked='checked' value=".$row['pr_id']." data-toggle='buttons'> </label>
+						</div>
+					</td>
+					<td>".$row['cust'].".</td>
+					<td>".$row['p_name']."</td>
+				</tr>";
 			}
 		else {
-			echo "	<label class='form-check-label'>
-					<input class='form-check-input' type='radio' name='projradio' value=".$row['pr_id'].">".$row['p_name']."</label><hr>";
+			echo "		
+				<tr>
+					<td>
+						<div class='radio'>
+							<label><input type='radio' id='id_pr_radio' name='projradio' value=".$row['pr_id']." data-toggle='buttons'> </label>
+						</div>
+					</td>
+					<td>".$row['cust']."</td>
+					<td>".$row['p_name']."</td>
+				</tr>";
 			}
 		}
-	echo "</div>";
+	echo "
+			</form>
+		</tbody>
+		</table>";
 }
-        
+
 function TrainingRadioList($sql, $th_trg_id)
 {
 	echo "<div class='form-check' id='id_trg_radio' data-toggle='buttons'>";
@@ -327,6 +419,7 @@ function TrainingRadioList($sql, $th_trg_id)
 	echo "</div>";
 }
 
+
 function CertRadioList($sql, $th_crt_id)
 {
 	echo "<div class='form-check' id='id_crt_radio' data-toggle='buttons'>";
@@ -342,3 +435,7 @@ function CertRadioList($sql, $th_crt_id)
 		}
 	echo "</div>";
 }
+
+?>
+
+

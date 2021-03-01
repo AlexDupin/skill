@@ -15,7 +15,7 @@
 		setcookie("acclvl",$row['acclvl']);
 		setcookie("uname",$row['uname']);
 		setcookie("NewLogin","True");
-		setcookie("userid",$row[id]);
+		setcookie("userid",$row['id']);
 			}
 	else{
 			$valid = FALSE;
