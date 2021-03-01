@@ -1,4 +1,4 @@
-<b> Aktuelle Hinweise </b>
+<b> Aktuelle Hinweise vom 1.3.2021</b>
 Bei Projekten, die man zwar selbst durchgeführt hat, die aber nicht bei NOVEDAS waren (sozusagen aus der eigenen Vergangenheit), dem Projektnamen bitte die Zeichenkentte <b>$FREMD$</b> voranstellen (Beispiel: Projektname="$FREMD$Roll Out SAP Clients"). Danke.
 <hr>
 <b>Hinweise zur Benutzung:</b> 
